@@ -2,4 +2,4 @@
 
 ## Purpose
 
-This repo intends tracks issues across Flow Reference Wallet platforms.
+This repo intends to track issues across Flow Reference Wallet platforms.
